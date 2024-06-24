@@ -1,0 +1,27 @@
+{
+  "name": "huffman-code",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node --experimental-modules index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Quinton",
+  "license": "MIT",
+  "dependencies": {
+    "color-json": "^3.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zvakanaka/huffman-code.git"
+  },
+  "keywords": [],
+  "homepage": "https://github.com/zvakanaka/huffman-code#readme",
+  "bugs": {
+    "url": "https://github.com/zvakanaka/huffman-code/issues"
+  }
+}
